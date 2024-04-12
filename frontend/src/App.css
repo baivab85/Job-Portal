@@ -1,0 +1,56 @@
+
+.service-view{
+  height: auto;
+  padding-bottom: 10px;
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+  border-radius: 5px;
+}
+
+.service-view h5{
+  font-family: redo;
+  padding: 20px 10px 0px 20px;
+}
+.service-view table thead tr th{
+  background-color: #526D82;
+  padding: 12px 17.6px 12px 17.6px;
+  color: #fff;
+  font-size: 16px;
+  font-family: redo;
+}
+.service-view table tbody tr td{
+  text-align: center;
+  border: 0.1px solid #EEE;
+}
+.whole{
+  height: 690px;
+  overflow-y: scroll;
+}
+.search{
+  display: block;
+  float: right;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+.search table tr td{
+  border: none;
+  padding-bottom: 5px;
+}
+.search table tr td input[type="search"]{
+  border-radius: 0px;
+  height: 55px;
+  width: 300px;
+}
+.action-btn{
+  background-color: #0014FF;
+  padding: 5px 7px;
+  color: #fff;
+  border-radius: 2px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.action-btn:hover{
+  color: #fff;
+}
+img{
+  width: 100%;
+}

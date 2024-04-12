@@ -1,0 +1,131 @@
+.card1{
+    height: 80px;
+    background-color: #fff;
+    border: 0.1px solid #059296;
+    border-radius: 7px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.card1 .card1-left{
+    height: 80px;
+    width: 70%;
+    float: left;
+}
+.card1 .card1-left .num{
+    color: #059296;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 0px 0px 20px;
+    letter-spacing: 1px;
+}
+.card1 .card1-left .num_title{
+    color: #059296;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 5px 0px 0px 20px;
+    letter-spacing: 1px;
+}
+.card1 .card1-right{
+    height: 80px;
+    width: 30%;
+    float: left;
+}
+.card1 .card1-right .right-img{
+    display: block;
+    padding: 27px 20px;
+}
+.card1 .card1-right span{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+/* card2 start here */
+
+.card2{
+    height: 80px;
+    background-color: #059296;
+    border-radius: 7px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.card2 .card1-left{
+    height: 80px;
+    width: 70%;
+    float: left;
+}
+.card2 .card1-left .num{
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 0px 0px 20px;
+    letter-spacing: 1px;
+}
+.card2 .card1-left .num_title{
+    color: #fff;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 5px 0px 0px 20px;
+    letter-spacing: 1px;
+}
+.card2 .card1-right{
+    height: 80px;
+    width: 30%;
+    float: left;
+}
+.card2 .card1-right .right-img{
+    display: block;
+    padding: 27px 20px;
+}
+.card2 .card1-right span{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+/* chart area start here*/
+.left-chart{
+    height: 350px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.left-chart span{
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+}
+.right-chart {
+    height: 350px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+/* chart area end here */
+
+.result{
+    height: auto;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    padding-bottom: 5px;
+}
+.result span{
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+}
+.result table thead tr th{
+    padding: 7px 18px;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    border: 0.1px solid #EEE;
+}
+.result table tbody tr td{
+    padding: 7px 18px;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    border: 0.1px solid #EEE;
+}
+.result table tbody tr td .table-nav{
+    font-size: 13px!important;
+}
